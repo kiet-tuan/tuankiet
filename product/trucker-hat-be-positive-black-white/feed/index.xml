@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Các phản hồi luận về: TRUCKER HAT &#8211; BE POSITIVE &#8211; BLACK/WHITE	</title>
+	<atom:link href="http://localhost/myproject/wordpress/product/trucker-hat-be-positive-black-white/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kiet-tuan.github.io/tuankiet/product/trucker-hat-be-positive-black-white/</link>
+	<description>Wordpress is my life</description>
+	<lastBuildDate>Sat, 03 Jul 2021 09:36:51 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+</channel>
+</rss>
